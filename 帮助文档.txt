@@ -1,0 +1,45 @@
+1|12312312|dsa@qq.com||18
+2|12312312|dsa@qq.com|xxxx|18
+3|12312312|dsa@qq.com|xxxx|18
+4|12312312|dsa@qq.com||18
+5|12312312|dsa@qq.com|xxxx|18
+6|12312312|dsa@qq.com|xxxx|18
+7|12312312|dsa@qq.com|xxxx|18
+8|12312312|dsa@qq.com||18
+9|12312312|dsa@qq.com|xxxx|18
+10|12312312|dsa@qq.com|xxxx|
+
+
+
+用户表
+	uid 	phone(手机号) 	email(邮箱)	nickname(昵称) 	age(年龄)
+
+
+
+添加功能
+	用户昵称（用StringUtil来判断昵称是否为空）:
+	手机号（用StringUtil来判断昵称是否为空）:
+	邮箱（用StringUtil来判断昵称是否为空）:
+	出生日期(用DateUtil根据日期算年龄)：
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+文章表  article
+	uid		titile(标题)		content(内容)		picurl(图片)		adate(文章发布时间)		uid(用户id)
+	
+	
+
